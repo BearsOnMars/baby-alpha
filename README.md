@@ -1,1 +1,1 @@
-# baby-alpha
+# Algorithmic Trading and Python tutorials learnt from Youtube
