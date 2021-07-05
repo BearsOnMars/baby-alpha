@@ -1,1 +1,1 @@
-# Algorithmic Trading and Python tutorials learnt from Youtube
+# Algorithmic Trading tutorials from Youtube
